@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&duration=3000&color=FFFF00&center=true&vCenter=true&lines=>>Insert+Coin<<;Abdelrahman+Hamdy...;Flutter+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&duration=3000&color=8B8000&center=true&vCenter=true&lines=>>Insert+Coin<<;Abdelrahman+Hamdy...;Flutter+Developer">
 </h1>
 
 ---

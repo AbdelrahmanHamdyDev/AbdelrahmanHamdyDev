@@ -62,7 +62,6 @@
 
 📡 **CONNECT WITH THE PLAYER**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00CED1?style=for-the-badge&logo=retroarch&logoColor=white)](https://abdelrahmanhamdydev.github.io) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanhamdy-dev/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdelrahman.HAA@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrahmanHamdyDev)
